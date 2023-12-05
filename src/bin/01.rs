@@ -1,5 +1,4 @@
 use regex::Regex;
-use std::io::BufRead;
 use std::str::FromStr;
 advent_of_code::solution!(1);
 
